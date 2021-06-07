@@ -11,6 +11,7 @@ const btnHold = document.querySelector('.btn--hold');
 const player0 = document.querySelector('.player--0');
 const player1 = document.querySelector('.player--1');
 
+// ---------------------
 // starting condition
 
 let scores, currentScore, activePlayer, playing;
